@@ -1,5 +1,7 @@
-Project name : Shoping Project 
-database location : db/shop.sql
+<h1>laravel Shop</h1>
+
+<p>Project name : Shoping Project 
+database location : db/shop.sql</p>
 =======
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
